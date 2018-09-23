@@ -1,0 +1,51 @@
+body {
+    background-color: olivedrab;
+    color: white;
+}
+
+.header {
+    font-size: 70pt;
+    font-family: 'Sacramento', cursive;
+    text-align: center;
+    padding: 4%;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin: auto;
+}
+
+.card {
+    width: 45%;
+    margin: -.5%;
+    border: 2px white dashed;
+    text-align: justify;
+}
+
+.description {
+    font-size: 11pt;
+    font-weight: bold;
+}
+
+.photo {
+    max-width: 100%;
+    border-radius: 40px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.photo2 {
+    max-width: 100%;
+    border-radius: 40px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+footer {
+    margin: 30px;
+}
