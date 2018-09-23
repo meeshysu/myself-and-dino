@@ -4,7 +4,7 @@ This particular project was to test and practice my CSS and HTML skills. This pr
 
 # Screen Shot:
 
-![main_screenshot](./DinoPage.png)
+![main_screenshot](DinoPage.png)
 
 # How To Run This Project! 
 
